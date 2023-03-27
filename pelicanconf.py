@@ -1,6 +1,7 @@
 AUTHOR = 'paretech'
 SITENAME = 'paretech.com'
 SITEURL = ''
+OUTPUT_PATH = 'output'
 
 PATH = 'content'
 
