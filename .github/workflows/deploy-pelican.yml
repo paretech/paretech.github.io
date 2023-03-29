@@ -47,5 +47,5 @@ jobs:
       - name: Deploy
         uses: actions/upload-pages-artifact@v1
         with:
-          name: pelican-output
+          name: github-pages
           path: ./output
